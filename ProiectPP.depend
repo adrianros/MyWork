@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1546032713 source:c:\proiectpp\proiectpp\cod.c
+	<stdio.h>
+	<stdlib.h>
+	"cod.h"
+
+1546033078 source:c:\proiectpp\proiectpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cod.h"
+
+1545528627 c:\proiectpp\proiectpp\cod.h
+
+1546608857 source:c:\users\adi\desktop\proiectpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cod.h"
+
+1546618973 c:\users\adi\desktop\proiectpp\cod.h
+
+1546608754 source:c:\users\adi\desktop\proiectpp\cod.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"cod.h"
+
